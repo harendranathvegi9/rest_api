@@ -1,4 +1,4 @@
 # rest_api
 
 
-simple Restful API on your local, with node.js express and Mongodb (mongoose)
+simple Restful API, using node.js express and Mongodb (mongoose)
